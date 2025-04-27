@@ -1,0 +1,17 @@
+{
+  "normalParametersRequestReturnData":{
+    "id": 2020,
+  "username": "user1",
+  "firstName": "Rita",
+  "lastName": "Gupta",
+  "email": "a@gmail.com",
+  "password": "test@1",
+  "phone": "123456789",
+  "userStatus": 0
+},
+"notfoundParametersRequestReturnData":{
+    "code": 1,
+  "type": "error",
+  "message": "User not found"
+}
+}

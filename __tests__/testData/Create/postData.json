@@ -1,0 +1,14 @@
+{
+  "NormalParametersRequestData":{
+    
+      "id": 0,
+      "username": "test",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test",
+      "password": "test",
+      "phone": "0675354535345",
+      "userStatus": 0
+    
+  }
+}

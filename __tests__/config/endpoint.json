@@ -1,0 +1,10 @@
+{
+    "auth": "/auth/token",
+
+    "user": 
+    {
+    "create": "user",
+    "list": "user/",
+    "update": "user/"    
+    }
+}
